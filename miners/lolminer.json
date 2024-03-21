@@ -38,6 +38,7 @@
         "ETH",
         "ETHASH",
         "EXCC",
+        "FISHHASH",
         "GRAM",
         "GRIN-C29M",
         "GRIN-C32",
@@ -73,6 +74,7 @@
         "AUTOLYKOS2": ["ALEPHDUAL", "KASPADUAL", "TONDUAL", "zil"],
         "UBQHASH":    ["ALEPHDUAL", "KASPADUAL", "TONDUAL", "zil"],
         "ETHASHB3":   ["ALEPHDUAL", "FISHDUAL", "KARLSENDUAL", "PYRINDUAL", "KASPADUAL", "RXDDUAL", "TONDUAL", "zil"],
+        "FISHHASH":   ["ALEPHDUAL", "KARLSENDUAL", "PYRINDUAL", "KASPADUAL", "RXDDUAL", "TONDUAL", "zil"],
         "ETHASH":     ["ETCHASH", "ALEPHDUAL", "KASPADUAL", "TONDUAL", "zil"],
         "ETCHASH":    ["ETHASH", "ALEPHDUAL", "KASPADUAL", "TONDUAL", "zil"],
         "ETC":        ["ETHASH", "ALEPHDUAL", "KASPADUAL", "TONDUAL", "zil"]
@@ -95,6 +97,7 @@
         "blake3-alephium": "blake3-alph",
         "Blake3-Alephium": "blake3-alph",
         "blake3-ironfish": "blake3-iron",
+        "FISHHASH":"fishhash",
         "FISHDUAL": "blake3-iron",
         "BTCZ": "equihash 144\/5",
         "BTG": "equihash 144\/5",
